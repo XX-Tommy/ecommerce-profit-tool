@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ecommerce-profit-tool",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "515770ff-0d5d-42b9-9155-58cd413a9d09",
+			"database_name": "ecommerce-profit-tool"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
